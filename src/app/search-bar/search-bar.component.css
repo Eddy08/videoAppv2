@@ -1,0 +1,9 @@
+form{
+    border:2px red solid;
+}
+mat-form-field{
+    width:80%;
+}
+button{
+    width:20%;
+}
