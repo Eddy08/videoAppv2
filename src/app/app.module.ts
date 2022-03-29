@@ -6,8 +6,6 @@ import { AppComponent } from './app.component';
 import { MainComponent } from './main/main.component';
 import { ClockComponent } from './clock/clock.component';
 import { PlayerComponent } from './player/player.component';
-import { WallComponent } from './wall/wall.component';
-import { BackgroundComponent } from './background/background.component';
 import { SearchBarComponent } from './search-bar/search-bar.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
@@ -51,8 +49,6 @@ import { BackendApiService } from './shared/backend-api.service';
     MainComponent,
     ClockComponent,
     PlayerComponent,
-    WallComponent,
-    BackgroundComponent,
     SearchBarComponent,
     DashboardComponent
   ],
